@@ -1,0 +1,6 @@
+//<'gui.pbo' properties via Mikero's dos tools, dll version 9.98>
+prefix=JM\CF\GUI;
+Mikero=DePbo.dll.7.95;
+version=25011821;
+//PboType=Arma Addon;
+//</properties>
