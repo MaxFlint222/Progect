@@ -1,0 +1,6 @@
+//<'assets.pbo' properties via Mikero's dos tools, dll version 9.98>
+prefix=VPPAdminTools\assets;
+Mikero=DePbo.dll.10.04;
+version=25081416;
+//PboType=Arma Addon;
+//</properties>
