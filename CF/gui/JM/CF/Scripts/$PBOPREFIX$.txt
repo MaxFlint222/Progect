@@ -1,0 +1,6 @@
+//<'scripts.pbo' properties via Mikero's dos tools, dll version 9.98>
+prefix=JM\CF\Scripts;
+Mikero=DePbo.dll.7.95;
+version=25042317;
+//PboType=Arma Addon;
+//</properties>
